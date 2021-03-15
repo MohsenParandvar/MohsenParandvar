@@ -1,7 +1,7 @@
 - @MohsenParandvar
 - ~ Web Backend Programmer
 - ways of connection:
-- Instagram AND Telgram => @mhsn_root 
+- Instagram AND Telegram => @mhsn_root 
 - Email => mohsen.parandvar@yahoo.com
 
 <!---
