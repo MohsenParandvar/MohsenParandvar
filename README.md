@@ -1,4 +1,4 @@
-- Devops and Programmer
+- Dev(eloper,ops)
 - Telegram: @mhsn_root 
 - Email: mohsen.parandvar@yahoo.com
 
